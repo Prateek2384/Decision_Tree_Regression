@@ -1,1 +1,2 @@
 # Decision_Tree_Regression
+Decision Tree Regression is a type of machine learning algorithm used for predicting continuous values. It works by splitting the data into subsets based on the feature values, forming a tree-like structure. Each internal node represents a decision based on a feature, and each leaf node represents a predicted value. The goal is to create a model that predicts the target variable by learning simple decision rules inferred from the data features. It's particularly useful for handling non-linear relationships and interactions between features.
